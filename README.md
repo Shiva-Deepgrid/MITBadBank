@@ -22,25 +22,26 @@ To run this project, please follow these steps:
 ## Screenshots
 
 Shiva's Bad Bank in action
-![Home Page:](Screenshot%20(6).png)
-![Create_Account Page:](Screenshot%20(7).png)
-![Create_Account Page:](Screenshot%20(8).png)
-![Create_Account Page:](Screenshot%20(9).png)
-![Login Page:](Screenshot%20(10).png)
-![Login Page:](Screenshot%20(11).png)
-![Deposit Page:](Screenshot%20(12).png)
-![Deposit Page:](Screenshot%20(13).png)
+![Home Page:](Screenshot%20(21).png)
+![Create_Account Page:](Screenshot%20(22).png)
+![Create_Account Page:](Screenshot%20(23).png)
 
-![Balance Page:](Screenshot%20(14).png)
-![Balance Page:](Screenshot%20(15).png)
+![Login Page:](Screenshot%20(24).png)
+![Login Page:](Screenshot%20(25).png)
 
-![Withdraw Page:](Screenshot%20(16).png)
-![Withdraw Page:](Screenshot%20(17).png)
+![Deposit Page:](Screenshot%20(26).png)
+![Deposit Page:](Screenshot%20(27).png)
 
-![Balance Page:](Screenshot%20(18).png)
-![Balance Page:](Screenshot%20(19).png)
+![Balance Page:](Screenshot%20(28).png)
+![Balance Page:](Screenshot%20(29).png)
 
-![AllData Page:](Screenshot%20(20).png)
+![Withdraw Page:](Screenshot%20(30).png)
+![Withdraw Page:](Screenshot%20(31).png)
+
+![Balance Page:](Screenshot%20(32).png)
+![Balance Page:](Screenshot%20(33).png)
+
+![AllData Page:](Screenshot%20(34).png)
 
 
 
