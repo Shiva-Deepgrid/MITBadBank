@@ -11,7 +11,7 @@ The motivation behind building this project is to create a user-friendly platfor
 To run this project, please follow these steps:
 
 1. Clone this repository by running the following command in your terminal:
-    git clone https://github.com/sushmanaallaofc/BadBankMit.git
+    git clone https://github.com/Shiva-Deepgrid/MITBadBank.git
 2. Change your working directory to the cloned repository:
     cd MITBadBank
 3. Install the necessary dependencies:
